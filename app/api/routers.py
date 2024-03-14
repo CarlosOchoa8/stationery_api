@@ -10,4 +10,3 @@ api_router.include_router(
     tags=['users'],
     responses={418: {'description': 'I"m a teapot =)'}}
 )
-

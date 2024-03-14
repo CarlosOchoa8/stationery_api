@@ -2,5 +2,7 @@ from .user import (
     UserBaseSchema,
     UserCreateSchema,
     UserUpdateSchema,
-    UserResponseSchema
+    UserResponseSchema,
+    Token,
+    UserAuthSchema
 )

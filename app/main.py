@@ -2,8 +2,8 @@ from app.api.routers import api_router
 from fastapi import FastAPI
 
 fastapi_app = FastAPI(
-    title='e-learning_api',
-    description='e-learning platform API',
+    title='stationery_api',
+    description='stationery API',
     swagger_ui_parameters={'docExpansion': 'None'}
 )
 
