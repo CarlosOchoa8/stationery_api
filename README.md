@@ -1,2 +1,1 @@
-# FastAPI
-FastAPI dockerized project template
+# stationery api
